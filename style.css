@@ -1,9 +1,7 @@
-body{
-    background-color: darkgray;
-    font-family: 'Courier New', Courier, monospace;
-    font-weight: 400;
+*{
+    background-color: rgb(241, 217, 239);
 }
 
 h3{
-    font: rgb(92, 2, 128) bold, italic;
+    color: rgb(209, 57, 57);
 }
