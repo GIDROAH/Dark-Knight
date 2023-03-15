@@ -5,3 +5,9 @@
 h3{
     color: rgb(209, 57, 57);
 }
+
+img{
+    border-radius: 2px;
+    border-color: black;
+    border: 2px;
+}
