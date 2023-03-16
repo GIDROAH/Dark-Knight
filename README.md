@@ -11,3 +11,4 @@ Git init
 Git status
 Git add
 Pushed on GitHub 
+Going to pull from Github
